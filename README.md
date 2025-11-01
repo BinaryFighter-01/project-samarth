@@ -81,8 +81,8 @@ npm install lucide-react
 Create `.env` file in `backend` directory:
 
 ```env
-GEMINI_API_KEY=your_gemini_api_key_here
-DATA_GOV_IN_API_KEY=
+GEMINI_API_KEY=AIzaSyC_jxwe-IcjkM6dE6f8_vyFjTUfqdB8V2o
+DATA_GOV_IN_API_KEY=579b464db66ec23bdd000001cdd3946e44ce4aad7209ff7b23ac571b
 DEBUG=True
 PORT=5000
 ```
