@@ -1,0 +1,29 @@
+{
+  "name": "project-samarth-frontend",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Frontend for Project Samarth — React + Vite + Tailwind",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview --port 4173",
+    "lint": "eslint \"src/**/*.{js,jsx}\"",
+    "format": "prettier --write \"src/**/*.{js,jsx,css,md}\""
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.14.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.0.0",
+    "autoprefixer": "^10.4.14",
+    "eslint": "^8.50.0",
+    "eslint-config-prettier": "^10.0.0",
+    "eslint-plugin-react": "^7.33.2",
+    "postcss": "^8.4.32",
+    "prettier": "^3.0.0",
+    "tailwindcss": "^4.2.1",
+    "vite": "^5.0.0"
+  }
+}
